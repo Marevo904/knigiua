@@ -1,2 +1,0 @@
-# knigiua
-My first project.
